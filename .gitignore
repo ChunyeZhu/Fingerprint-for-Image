@@ -81,3 +81,11 @@ venv.bak/
 
 # 其他可选忽略项，根据项目需求添加
 *.json
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.psd
