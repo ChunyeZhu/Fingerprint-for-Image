@@ -296,6 +296,10 @@ similar = processor.find_similar_images(fingerprint, threshold=85)  # 降低阈�
 最终相似度 = 三种算法相似度的平均值
 ```
 
+## 实测:
+
+![8ac06ea5dfefa70ecb2ba96eb684d16c](/Users/Zhuanz/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_993ebypqm98o22_a60a/temp/RWTemp/2025-11/2645be5aabfc22234f207d99b949341e/8ac06ea5dfefa70ecb2ba96eb684d16c.png)
+
 ## 📝 更新日志
 
 ### v1.0.0 (2024-01-15)
@@ -311,7 +315,7 @@ MIT License - 可自由使用和修改
 
 ## 👨‍💻 作者
 
-信息对抗系统课程 - 实验四
+Chunye
 
 ## 🤝 贡献
 
