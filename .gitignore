@@ -1,0 +1,83 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C 扩展
+*.so
+
+# 包管理与构建
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 安装日志
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 单元测试、覆盖率
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# 虚拟环境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# IDE 配置文件
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+.ropeproject
+
+# Mac OS 文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 日志文件
+*.log
+
+# 其他可选忽略项，根据项目需求添加
+*.json
